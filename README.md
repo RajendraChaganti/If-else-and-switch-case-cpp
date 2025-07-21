@@ -69,8 +69,8 @@ Code Explanation:
   3 → Gilli Danda  
   4 → Kabbadi  
   5 → Pakdam Pakdai  
-- If the entered number is not from 1 to 5, a default game **"Ice Water"** is printed.  
-- This is a practical use of switch-case for menu selection.
+- If the entered number is not in between 1 to 5, a default "Invalid choice. Please enter a number between 1 and 5." is printed.  
+- This is a practical use of switch-case for game selection.
 
 --------------------------------------------------------------------------------
 Program 5E – Simple Calculator (Using switch-case)
@@ -91,3 +91,9 @@ Code Explanation:
 - The result is stored in a variable and printed using cout.
 
 --------------------------------------------------------------------------------
+
+Conclusion :
+
+We learned that if-else is used to check complex conditions, ranges and multiple logical comparisons, thus making it useful in a variety of situations. On the other hand, switch-case is suitable for fixed or pre-defined options, thus providing a more pleasing structure in the case of menu-driven programs.          
+
+Both control structures are important to decision making code, allowing us to create interactive and user-friendly programs that run effectively based on input and conditions.
