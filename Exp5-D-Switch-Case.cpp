@@ -25,7 +25,7 @@ int main()
             cout << "Pakdam Pakdai" << endl;
             break;
         default:
-            cout << "Ice Water" << endl;
+            cout << "Invalid choice.Please enter a number between 1 and 5." << endl;
     }
     return 0;
 }
