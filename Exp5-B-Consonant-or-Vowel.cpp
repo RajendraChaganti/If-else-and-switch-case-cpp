@@ -17,3 +17,8 @@ int main() {
     }
     return 0;
 }
+/*
+Output
+Enter a character: r
+It is a consonant.
+*/
