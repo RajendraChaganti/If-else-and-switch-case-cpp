@@ -28,3 +28,10 @@ int main() {
     }
     return 0;
 }
+/*
+Output
+Enter first number: 2
+Enter second number: 3
+Enter third number: 5
+Greatest number is: 5
+*/
