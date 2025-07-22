@@ -16,4 +16,8 @@ int main() {
     }
     return 0;
 }
-
+/*
+Output
+Enter a number: 2
+2 is even.
+    */
