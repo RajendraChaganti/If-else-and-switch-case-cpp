@@ -48,3 +48,15 @@ int main(){
     }
     return 0;
 }
+/*
+Output
+Enter first number: 2
+Enter second number: 45
+Choose operation:
+1 for Addition
+2 for Subtraction
+3 for Multiplication
+4 for Division
+Enter your choice (1 to 4): 3
+Result = 90
+*/
